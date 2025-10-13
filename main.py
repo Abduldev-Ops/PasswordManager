@@ -1,5 +1,4 @@
 from database import DatabaseManager
-from crypt import CRYPTO_MANAGER
 import hashlib
 
 class MAIN:

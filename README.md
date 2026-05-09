@@ -1,4 +1,6 @@
-# PasswordManager
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Security](https://img.shields.io/badge/AES_Encryption-Fernet-green?style=for-the-badge)# PasswordManager
 # 🔒 Secure Password Manager (CLI Version)
 
 ## 🧩 Problem
